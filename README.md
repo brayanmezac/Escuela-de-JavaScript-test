@@ -1,6 +1,41 @@
 # Escuela-de-JavaScript-test
 Escuela de JavaScript platzi
 
+### ¿En que versión de ECMAScript se implementó "trimStart"?
+        ES10
+
+### ¿En qué versión de ECMAScript fueron implementadas las Async functions?
+        ES8
+
+### array.includes(value) fue implementado en:
+        ES7
+
+### En un generator utilizamos "next" para:
+        Retornar el siguiente valor.
+
+### ¿Cuál es la forma correcta de exportar un módulo en ES6?
+        export default functionName;
+
+### Identifica la "Promesa" entre los siguientes bloques de código:
+        const helloPromise = () => { 
+            return new Promise((resolve, reject) => { 
+                if (true) { 
+                    resolve('Hey!'); 
+                } else { 
+                    reject('Whooops!'); 
+                } 
+            }); 
+        };
+
+### Las Arrows Functions fueron incorporadas en:
+        ES6
+
+### ¿Una variable asignada con "let" solo está disponible dentro del scope donde es definida?
+        Verdadero
+
+### ¿Cuál es el comando para inicializar nuestro proyecto con Node.js?
+        npm init
+
 ### ¿Cuál de los siguientes objetos se puede crear con la sentencia “create”?
     tabla
 
