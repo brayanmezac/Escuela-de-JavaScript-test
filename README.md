@@ -1,6 +1,53 @@
 # Escuela-de-JavaScript-test
 Escuela de JavaScript platzi
 
+---
+
+### ¿Cuál es la forma correcta de leer la variable de ambiente PORT con NodeJS?
+proccess.env.PORT
+
+### ¿Cuál es la súper empresa encargada de construir React.js?
+        Facebook
+        
+### .email-image img, selecciona:
+        Todas las imágenes que estén dentro de .email-image
+
+### #id h1::first-letter es más específico que p .sidemenu div:hover
+     Verdadero   
+
+### CSS son hojas de estilo en cascada. Este enunciado es:
+        Verdadero
+
+### HTML es un lenguaje de marcado de hipertexto. Este enunciado es:
+        Verdadero
+
+### Netlify es la única plataforma en la que se puede desplegar un proyecto hecho con React.js. Esta afirmación es:
+        Falsa
+
+### ¿Qué propiedad agregamos al archivo de configuración para indicarle a Webpack que trabajaremos en modo desarrollo?
+        mode: “development”
+
+### ¿Cuándo deberías utilizar VirtualBox para tu entorno de desarrollo?
+        Cuando no tienes posibilidad de utilizar Windows Subsystem for Linux por tener una versión de Windows antigua.
+
+### ¿Qué es un editor de texto o editor de código?
+        La herramienta que nos permite escribir nuestro código en la extensión que sea necesaria.
+
+### ¿Qué son las DevTools?
+        Herramientas o versiones de un navegador que incluyen utilidades para ver y analizar el comportamiento de lo que estamos programando.
+
+### ¿Cuál es la principal ventaja de trabajar en memoria frente a la lectura y escritura en disco?
+        La velocidad es mayor
+
+### ¿Cuáles son los argumentos que recibe una promesa?
+        resolve, reject
+
+### Las top level collection son las colecciones que tienen un documento padre
+        Falso
+
+### ¿Cuál es el otro nombre que se le da a las 12 reglas de Codd?
+        Mandamientos
+
 ### ¿En que versión de ECMAScript se implementó "trimStart"?
         ES10
 
