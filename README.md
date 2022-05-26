@@ -1,7 +1,80 @@
 # Escuela-de-JavaScript-test
-Escuela de JavaScript platzi
-
+## Escuela de JavaScript platzi
+    Puedes hacer uso de este repo solo con motivos de repasó cualquier otro uso es bajo tu responsabilidad. 
 ---
+
+### ¿Qué es un array?
+    Es una estructura de datos de tipo objeto.
+
+### ¿Qué resultado podría esperar de ésta validación?
+```javascript
+4 == “4”
+```
+    TRUE
+
+### ¿Es correcta la siguiente sentencia ?
+```javascript
+switch (false) { 
+	case false: console.log("Soy falso :( ") 
+	case true: console.log("Soy verdadero!") 
+}
+```
+    No
+
+### ¿Cuáles son los tipos de scope tenemos?
+    Scope global y Scope local.
+
+### ¿Qué resultado podría esperar de ésta validación?
+```javascript
+1 = “1”
+```
+    Syntax Error
+
+### ¿Qué es una variable?
+    Es la representación de un espacio en memoria.
+
+### ¿Qué podemos esperar al llamar al método .pop(); ?
+    Borrar el último elemento de mi array.
+
+### ¿Qué resultado podría esperar de ésta validación?
+```javascript
+6 === “6”
+```
+    FALSE
+
+### ¿Qué método llamaríamos para saber el index de un elemento de mi array?
+    indexOf()
+
+### ¿Cómo se le llama al siguiente ejemplo de funciones?
+```javascript
+function myfunction() { 
+	...
+}
+```
+    Función declarativa.
+
+### ¿Cómo podemos crear notas o comentarios en nuestro JavaScript?
+    // …
+
+### ¿Cómo se llama al siguiente ejemplo de funciones?
+```javascript
+var myFunction = function() { 
+	...
+}
+```
+    Función expresiva.
+
+### ¿Cómo se le conoce a la siguiente sentencia?
+```javascript
+nombre = “Diego”
+```
+    Inicializar una variable.
+
+### ¿Qué significa Coerción en JS?
+    Es el proceso de convertir el valor de un tipo a otro.
+
+### ¿Qué es el hoisting en Javascript?
+    Es cuando las declaraciones de variables y funciones se procesan antes de ejecutar cualquier código.
 
 ### ¿Las promesas resuelven un principal problema de las callbacks?
     callback hell
