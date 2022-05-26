@@ -3,6 +3,12 @@
     Puedes hacer uso de este repo solo con motivos de repasó cualquier otro uso es bajo tu responsabilidad. 
 ---
 
+¿Cómo se le conoce a la siguiente sentencia?
+```javascript
+var nombre;
+```
+    Inicializar
+
 ### ¿Qué es un array?
     Es una estructura de datos de tipo objeto.
 
