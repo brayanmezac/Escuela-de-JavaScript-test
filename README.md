@@ -3,6 +3,51 @@ Escuela de JavaScript platzi
 
 ---
 
+### ¿Las promesas resuelven un principal problema de las callbacks?
+    callback hell
+
+### ¿Para qué nos sirve la clase XMLHttpRequest?
+    Nos permite realizar solicitudes HTTP de una forma muy fácil
+
+### ¿El estado 4 de xhttp.readyState a qué hace referencia?
+    COMPLETED, La operación está terminada
+
+### ¿Para qué utilizamos JSON.parse(xhttp.responseText)?
+    Convertir una respuesta de texto en un Objecto iterable
+
+### ¿La recomendación de la comunidad para anidar callbacks es?
+    Un máximo de 3 callbacks
+
+### ¿Cuáles son los argumentos que recibe una promesa?
+    resolve, reject
+
+### ¿Cuál es la forma correcta de retornar un Error en reject?
+    reject (new Error(`Error`))
+
+### ¿Para qué nos sirve xhttp.status === 200?
+    Verificamos que el estatus de la petición HTTP resuelva el estado 200
+
+### ¿Para qué nos sirve el método "catch()"?
+    Registra la razón del rechazo
+
+### ¿El método then() retorna?
+    Promesa
+
+### ¿Nos permite ejecutar una serie de promesas secuencialmente?
+    Promise.all()
+
+### ¿Nos permite definir una función así­ncrona?
+    async
+
+### ¿Cuál es la expresión que pausa la ejecución de la función así­ncrona y espera la resolución de la promise?
+    await
+
+
+### ¿Cuál es el método recomendado por la comunidad para manejar asincronismo en JavaScript?
+    Async/await
+
+### ¿Cómo aseguramos manejar los errores asincrónicos correctamente?
+    try { ...código } catch (error) { ...código }
 
 ### Para asegurarnos de que nuestro código HTML está bien escrito podemos usar:
     Un sistema de validación de etiquetas.
